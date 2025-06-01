@@ -22,7 +22,7 @@ body {
 
 /*card container*/
 #card {
-    max-width: 24rem;
+    max-width: 384px;
     padding: 1.5rem;
     border: 1px solid black;
     border-radius: 20px;
@@ -101,6 +101,6 @@ body {
 @media screen and (max-width: 480px) {
 #card {
       margin-top: 2rem;
-      width: 90%;
+      width: 85%;
     }
   }
