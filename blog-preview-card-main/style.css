@@ -98,9 +98,11 @@ body {
     font-size: 0.9rem;
 }
 
-@media screen and (max-width: 480px) {
+@media (max-width: 450px) {
 #card {
-      margin-top: 2rem;
       width: 85%;
     }
+.content h1 {
+    font-size: 1.3rem;
+}
   }
